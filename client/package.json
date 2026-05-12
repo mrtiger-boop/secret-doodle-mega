@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "socket.io-client": "^4.7.5"
-  },
-  "devDependencies": {}
+    "secret-doodle": "file:..",
+    "socket.io-client": "^4.7.5",
+    "vite": "latest"
+  }
 }
